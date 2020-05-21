@@ -1,0 +1,7 @@
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\bin\Debug\MethSimoson3div8.exe.config
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\bin\Debug\MethSimoson3div8.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\bin\Debug\MethSimoson3div8.pdb
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\obj\Debug\MethSimoson3div8.csprojAssemblyReference.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\obj\Debug\MethSimoson3div8.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\obj\Debug\MethSimoson3div8.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethSimoson3div8\MethSimoson3div8\obj\Debug\MethSimoson3div8.pdb
